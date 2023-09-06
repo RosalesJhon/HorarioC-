@@ -1,0 +1,10 @@
+C:\Horario\Horario\Horario\obj\Debug\Horario.csproj.AssemblyReference.cache
+C:\Horario\Horario\Horario\obj\Debug\Horario.Form1.resources
+C:\Horario\Horario\Horario\obj\Debug\Horario.Properties.Resources.resources
+C:\Horario\Horario\Horario\obj\Debug\Horario.csproj.GenerateResource.cache
+C:\Horario\Horario\Horario\obj\Debug\Horario.csproj.CoreCompileInputs.cache
+C:\Horario\Horario\Horario\bin\Debug\Horario.exe.config
+C:\Horario\Horario\Horario\bin\Debug\Horario.exe
+C:\Horario\Horario\Horario\bin\Debug\Horario.pdb
+C:\Horario\Horario\Horario\obj\Debug\Horario.exe
+C:\Horario\Horario\Horario\obj\Debug\Horario.pdb

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horario", "Horario\Horario.csproj", "{FE84E64A-3D19-4A98-8841-CC1B6395FF59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{76678DC0-FEBB-4A50-BC36-80393F3B805A}"
+	ProjectSection(SolutionItems) = preProject
+		..\4957136.jpg = ..\4957136.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE84E64A-3D19-4A98-8841-CC1B6395FF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE84E64A-3D19-4A98-8841-CC1B6395FF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE84E64A-3D19-4A98-8841-CC1B6395FF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE84E64A-3D19-4A98-8841-CC1B6395FF59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D1555E7-AFB0-49CB-897D-F0BF4AB66B78}
+	EndGlobalSection
+EndGlobal
