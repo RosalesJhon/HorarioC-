@@ -1,0 +1,11 @@
+C:\TrabajoFinal\TrabajoFinal\bin\Release\TrabajoFinal.exe.config
+C:\TrabajoFinal\TrabajoFinal\bin\Release\TrabajoFinal.exe
+C:\TrabajoFinal\TrabajoFinal\bin\Release\TrabajoFinal.pdb
+C:\TrabajoFinal\TrabajoFinal\obj\Release\TrabajoFinal.csproj.AssemblyReference.cache
+C:\TrabajoFinal\TrabajoFinal\obj\Release\TrabajoFinal.Form1.resources
+C:\TrabajoFinal\TrabajoFinal\obj\Release\TrabajoFinal.inicio.resources
+C:\TrabajoFinal\TrabajoFinal\obj\Release\TrabajoFinal.Properties.Resources.resources
+C:\TrabajoFinal\TrabajoFinal\obj\Release\TrabajoFinal.csproj.GenerateResource.cache
+C:\TrabajoFinal\TrabajoFinal\obj\Release\TrabajoFinal.csproj.CoreCompileInputs.cache
+C:\TrabajoFinal\TrabajoFinal\obj\Release\TrabajoFinal.exe
+C:\TrabajoFinal\TrabajoFinal\obj\Release\TrabajoFinal.pdb
